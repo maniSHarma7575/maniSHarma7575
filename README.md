@@ -24,7 +24,7 @@ My name is Manish Sharma and I love to Build Software Solutions, and do Problem 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniSHarma7575&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/maniSHarma7575/maniSHarma7575">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maniSHarma75753&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Manish's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maniSHarma7575&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Manish's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
