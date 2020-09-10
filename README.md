@@ -18,15 +18,8 @@ My name is Manish Sharma and I love to Build Software Solutions, and do Problem 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a) -->
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/maniSHarma7575/maniSHarma7575">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniSHarma7575&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/maniSHarma7575/maniSHarma7575">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maniSHarma7575&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Manish's GitHub Stats" />
-</a>
-
+<!--## &#x1f4c8; GitHub Stats
+-->
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
