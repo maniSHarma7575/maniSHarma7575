@@ -39,6 +39,6 @@ My name is Manish Sharma and I love to Build Software Solutions, and do Problem 
 [1]: https://twitter.com/ManishS77291587
 [2]: https://github.com/maniSHarma7575
 [3]: https://www.linkedin.com/in/manish-sharma-694263157/
-## Profile Views
+
 
 ![](https://komarev.com/ghpvc/?username=maniSharma7575&color=dc143c)
