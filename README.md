@@ -16,17 +16,17 @@ I'm Manish Sharma and I love to Build Software Solutions, and do Problem Solving
 - [Working together is a success](https://exploremanish.blogspot.com/2020/04/working-together-is-success.html)
 - [40 Books to enjoy your Engineering
 ](https://ccinternshipstory.blogspot.com/2020/02/40-books-to-enjoy-your-engineering.html)
+- [Migrating elitmus.com from Paperclip to Active Storage](https://www.elitmus.com/blog/technology/migration-from-paperclip-to-activestorage/)
 
 <hr/>
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Framework-RubyonRails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 <!--## &#x1f4c8; GitHub Stats
 -->
