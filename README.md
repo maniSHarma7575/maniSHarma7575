@@ -11,7 +11,7 @@ I'm Manish Sharma and I love to Build Software Solutions, and do Problem Solving
 
 - [Design Process to make it better
 ](https://exploremanish.blogspot.com/2020/11/design-process-to-make-it-better.html)
-- [React-Redux](https://exploremanish.blogspot.com/2020/06/getting-deeper-understanding-of-react.html)
+- [Getting deeper understanding of React-Redux by building it myself](https://exploremanish.blogspot.com/2020/06/getting-deeper-understanding-of-react.html)
 - [The start of My tour as a Reader](https://exploremanish.blogspot.com/2020/04/the-start-of-my-tour-as-reader.html)
 - [Working together is a success](https://exploremanish.blogspot.com/2020/04/working-together-is-success.html)
 - [40 Books to enjoy your Engineering
