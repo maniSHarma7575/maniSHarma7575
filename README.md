@@ -17,7 +17,7 @@ I'm Manish Sharma and I love to Build Software Solutions, and do Problem Solving
 - [40 Books to enjoy your Engineering
 ](https://ccinternshipstory.blogspot.com/2020/02/40-books-to-enjoy-your-engineering.html)
 - [Migrating elitmus.com from Paperclip to Active Storage](https://www.elitmus.com/blog/technology/migration-from-paperclip-to-activestorage/)
-- [Outliers - The story of success - Book Review](https://exploremanish.blogspot.com/2022/05/outliers-story-of-success-book-review.html)
+- [Outliers - The story of success - Book Review](https://www.elitmus.com/blog/the-other-side/outliers-the-story-of-success-book-review/)
 
 <hr/>
 
