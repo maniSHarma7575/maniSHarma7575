@@ -1,6 +1,6 @@
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm Manish Sharma and I love to Build Software Solutions, and do Problem Solving.
+I'm Full Stack Developer at eLitmus
 
 <a href="https://twitter.com/ManishS77291587"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
 <a href="https://www.linkedin.com/in/manish-sharma-694263157/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
