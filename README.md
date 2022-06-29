@@ -18,6 +18,7 @@ I'm Full Stack Developer at eLitmus
 ](https://ccinternshipstory.blogspot.com/2020/02/40-books-to-enjoy-your-engineering.html)
 - [Migrating elitmus.com from Paperclip to Active Storage](https://www.elitmus.com/blog/technology/migration-from-paperclip-to-activestorage/)
 - [Outliers - The story of success - Book Review](https://www.elitmus.com/blog/the-other-side/outliers-the-story-of-success-book-review/)
+- [Sidekiq process in production with Systemd and Monit](https://www.elitmus.com/blog/technology/sidekiq-process-in-production-with-systemd-and-monit/)
 
 <hr/>
 
