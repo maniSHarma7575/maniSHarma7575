@@ -19,6 +19,7 @@ I'm Full Stack Developer at eLitmus. Know more about me here [manishsharma.ml](h
 - [Migrating elitmus.com from Paperclip to Active Storage](https://www.elitmus.com/blog/technology/migration-from-paperclip-to-activestorage/)
 - [Outliers - The story of success - Book Review](https://www.elitmus.com/blog/the-other-side/outliers-the-story-of-success-book-review/)
 - [Sidekiq process in production with Systemd and Monit](https://www.elitmus.com/blog/technology/sidekiq-process-in-production-with-systemd-and-monit/)
+- [The revamp of a Video Proctoring Solution: A Behind-the-Scenes Look](https://www.elitmus.com/blog/technology/the-revamp-of-a-video-proctoring-solution-a-behind-the-scenes-look/)
 
 <hr/>
 
@@ -33,8 +34,6 @@ I'm Full Stack Developer at eLitmus. Know more about me here [manishsharma.ml](h
 <!--## &#x1f4c8; GitHub Stats
 -->
 <hr/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maniSHarma7575&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniSHarma7575&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
 
 <!-- links to social media icons -->
 
