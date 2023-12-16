@@ -9,20 +9,20 @@ I'm Senior RubyOnRails & React Developer at eLitmus. Know more about me here [ma
 
 ### :newspaper: Blog Posts
 
-- [Design Process to make it better
-](https://exploremanish.blogspot.com/2020/11/design-process-to-make-it-better.html)
-- [Getting deeper understanding of React-Redux by building it myself](https://exploremanish.blogspot.com/2020/06/getting-deeper-understanding-of-react.html)
-- [The start of My tour as a Reader](https://exploremanish.blogspot.com/2020/04/the-start-of-my-tour-as-reader.html)
-- [Working together is a success](https://exploremanish.blogspot.com/2020/04/working-together-is-success.html)
+- [An in-depth look at Database Indexing](https://www.elitmus.com/blog/technology/an-in-depth-look-at-database-indexing/)
+- [Demystifying Rails 7 System Tests: Configuring CI Pipeline](https://www.elitmus.com/blog/technology/demystifying-rails-7-system-tests-configuring-ci-pipeline/)
+- [The revamp of a Video Proctoring Solution: A Behind-the-Scenes Look](https://www.elitmus.com/blog/technology/the-revamp-of-a-video-proctoring-solution-a-behind-the-scenes-look/)
+- [Sidekiq process in production with Systemd and Monit](https://www.elitmus.com/blog/technology/sidekiq-process-in-production-with-systemd-and-monit/)
+- [Outliers - The story of success - Book Review](https://www.elitmus.com/blog/the-other-side/outliers-the-story-of-success-book-review/)
+- [Migrating elitmus.com from Paperclip to Active Storage](https://www.elitmus.com/blog/technology/migration-from-paperclip-to-activestorage/)
 - [40 Books to enjoy your Engineering
 ](https://ccinternshipstory.blogspot.com/2020/02/40-books-to-enjoy-your-engineering.html)
-- [Migrating elitmus.com from Paperclip to Active Storage](https://www.elitmus.com/blog/technology/migration-from-paperclip-to-activestorage/)
-- [Outliers - The story of success - Book Review](https://www.elitmus.com/blog/the-other-side/outliers-the-story-of-success-book-review/)
-- [Sidekiq process in production with Systemd and Monit](https://www.elitmus.com/blog/technology/sidekiq-process-in-production-with-systemd-and-monit/)
-- [The revamp of a Video Proctoring Solution: A Behind-the-Scenes Look](https://www.elitmus.com/blog/technology/the-revamp-of-a-video-proctoring-solution-a-behind-the-scenes-look/)
-- [Demystifying Rails 7 System Tests: Configuring CI Pipeline](https://www.elitmus.com/blog/technology/demystifying-rails-7-system-tests-configuring-ci-pipeline/)
-- [An in-depth look at Database Indexing](https://www.elitmus.com/blog/technology/an-in-depth-look-at-database-indexing/)
-
+- [Working together is a success](https://exploremanish.blogspot.com/2020/04/working-together-is-success.html)
+- [The start of My tour as a Reader](https://exploremanish.blogspot.com/2020/04/the-start-of-my-tour-as-reader.html)
+- [Getting deeper understanding of React-Redux by building it myself](https://exploremanish.blogspot.com/2020/06/getting-deeper-understanding-of-react.html)
+- [Design Process to make it better
+](https://exploremanish.blogspot.com/2020/11/design-process-to-make-it-better.html)
+  
 <hr/>
 
 ## 🔧 Technologies & Tools
