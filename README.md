@@ -21,6 +21,7 @@ I'm Senior RubyOnRails & React Developer at eLitmus. Know more about me here [ma
 - [Sidekiq process in production with Systemd and Monit](https://www.elitmus.com/blog/technology/sidekiq-process-in-production-with-systemd-and-monit/)
 - [The revamp of a Video Proctoring Solution: A Behind-the-Scenes Look](https://www.elitmus.com/blog/technology/the-revamp-of-a-video-proctoring-solution-a-behind-the-scenes-look/)
 - [Demystifying Rails 7 System Tests: Configuring CI Pipeline](https://www.elitmus.com/blog/technology/demystifying-rails-7-system-tests-configuring-ci-pipeline/)
+- [An in-depth look at Database Indexing](https://www.elitmus.com/blog/technology/an-in-depth-look-at-database-indexing/)
 
 <hr/>
 
