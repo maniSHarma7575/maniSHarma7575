@@ -60,7 +60,3 @@ I'm Senior RubyOnRails & React Developer at eLitmus. Know more about me here [sh
 
 ![](https://komarev.com/ghpvc/?username=maniSharma7575&color=dc143c)
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maniSHarma7575" alt="Github Streak Stats">
-</p>
-
